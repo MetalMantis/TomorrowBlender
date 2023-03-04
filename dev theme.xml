@@ -541,7 +541,7 @@
     <file_browser>
       <ThemeFileBrowser
         selected_file="#474c52"
-        row_alternate="#4f4f4fff"
+        row_alternate="#47494b"
         >
         <space>
           <ThemeSpaceGeneric
@@ -819,7 +819,7 @@
         metadatabg="#333333"
         metadatatext="#b8b8b8"
         preview_range="#a14d0066"
-        row_alternate="#46484a"
+        row_alternate="#47494b"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1329,7 +1329,7 @@
     </statusbar>
     <spreadsheet>
       <ThemeSpreadsheet
-        row_alternate="#4f4f4fff"
+        row_alternate="#47494b"
         >
         <space>
           <ThemeSpaceGeneric
